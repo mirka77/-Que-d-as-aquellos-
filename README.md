@@ -1,5 +1,4 @@
-# -Que-d-as-aquellos-
-Este programa te dice que día de la semana fue con la fecha dada
+
 Nombre del Programa: ¡Que dias aquellos!
 Autor: Mirka Galilea Dennis Vargas
 Fecha: 11 de Septiembre del 2022
